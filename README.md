@@ -77,3 +77,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## how to set up the project locally
+
+must have the software of xampp,php,composer and node.
+using the terminal run the command < php artisan serve --port=1234 > to set a port for the app and you can choose any other port.
